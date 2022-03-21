@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\OOP1WPF\\OOP1WPF\\OOP1WPF.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\laboratory-work-1-Aleksey-Sm\\OOP1WPF\\OOP1WPF.csproj",
       "projectName": "OOP1WPF",
-      "projectPath": "D:\\C#\\OOP1WPF\\OOP1WPF\\OOP1WPF.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\laboratory-work-1-Aleksey-Sm\\OOP1WPF\\OOP1WPF.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\OOP1WPF\\OOP1WPF\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\laboratory-work-1-Aleksey-Sm\\OOP1WPF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,5 +66,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\admin\\Desktop\\laboratory-work-1-Aleksey-Sm\\OOP1WPF\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
 }

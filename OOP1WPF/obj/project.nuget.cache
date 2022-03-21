@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ETc1Um/PmK4Nt5iZ8Dx8Ek2eadbEyY9NesMMNdGpWNeK+ZsaQTHjw3nPMISjxqAbskfxfKwtqCylDvjQJMzjpQ==",
+  "dgSpecHash": "m2kJkze3l1+nee/U4E2cjeT63p3GxUouzELt2/0JbWHVmVYXci7p39VMxTTExlk5+yYAv+YzQ8HjeSoBmO8p3Q==",
   "success": true,
-  "projectFilePath": "D:\\C#\\OOP1WPF\\OOP1WPF\\OOP1WPF.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\laboratory-work-1-Aleksey-Sm\\OOP1WPF\\OOP1WPF.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\admin\\Desktop\\laboratory-work-1-Aleksey-Sm\\OOP1WPF\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
 }
