@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\admin\Desktop\laboratory-work-1-Aleksey-Sm\OOP1WPF\obj\Debug\net6.0-windows\
+C:\Users\admin\Desktop\laboratory-work-1-Aleksey-Sm\OOP1WPF\obj\Release\net6.0-windows\
 OOP1WPF
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\admin\Desktop\laboratory-work-1-Aleksey-Sm\OOP1WPF\App.xaml
 11407045341
 
